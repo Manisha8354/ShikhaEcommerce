@@ -110,7 +110,7 @@ export default function Footer() {
                   Connect with us
                 </h1>
                 <div className="flex items-center gap-3 mt-6">
-                  <a href="mailto:shikha.b79@gmail.com" target="_blank" rel="noopener noreferrer">
+                  <a href="mailto:connect@alankaararts.com" target="_blank" rel="noopener noreferrer">
                     <FaEnvelope className="text-3xl" /> {/* Email icon */}
                   </a>
                   <a

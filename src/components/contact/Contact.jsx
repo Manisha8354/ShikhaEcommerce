@@ -4,7 +4,7 @@ import Footer from '../Footer/Footer'
 import AOS from "aos";
 import "aos/dist/aos.css";
 import axios from 'axios';
-import backgroundImage from '../../assets/contactbanner.jpeg'
+import backgroundImage from '../../assets/website/contact.jpeg'
 import img from '../../assets/contactbanner1.jpeg'
 import Testimonials from "../Testimonials/Testimonials";
 
@@ -131,7 +131,7 @@ export default function Contact() {
               </p>
               <p className="text-white text-sm sm:text-lg md:text-xl mt-4">
   <a href="mailto:indianrasoi15@gmail.com" className="hover:underline">
-  shikha.b79@gmail.com
+  connect@alankaararts.com
   </a>
 </p>
 

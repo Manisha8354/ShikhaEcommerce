@@ -45,7 +45,7 @@ export default function Return() {
       For replacing a defective/unused item:
     </h3>
     <p className="text-gray-700 mb-4 transition-all duration-300 hover:text-gray-900">
-      Send us a mail at <a href="mailto:shikha.b79@gmail.com" className="text-blue-500 underline hover:text-blue-700">shikha.b79@gmail.com</a>, within 7 days from the date of delivery. Do attach the original receipt as proof of purchase. It is mandatory to make a video of unboxing of your order and send it to us along with your return/replacement request.
+      Send us a mail at <a href="mailto:shikha.b79@gmail.com" className="text-blue-500 underline hover:text-blue-700">connect@alankaararts.com</a>, within 7 days from the date of delivery. Do attach the original receipt as proof of purchase. It is mandatory to make a video of unboxing of your order and send it to us along with your return/replacement request.
     </p>
     <p className="text-gray-700 mb-4 transition-all duration-300 hover:text-gray-900">
       The defective/unused product will be recalled, and a replacement will be shipped immediately if available. Return charges are payable by us for domestic (India) shipments and by the customer for International shipments.
@@ -62,7 +62,7 @@ export default function Return() {
       Refund
     </h2>
     <p className="text-gray-700 mb-4 transition-all duration-300 hover:text-gray-900">
-      If you are unhappy with your purchase and want a refund/replacement, please write to us at <a href="mailto:shikha.b79@gmail.com" className="text-blue-500 underline hover:text-blue-700">shikha.b79@gmail.com</a>. Alankaar The Art Of Beads will process your refund within 7 days of receiving the products back at our warehouse.
+      If you are unhappy with your purchase and want a refund/replacement, please write to us at <a href="mailto:connect@alankaararts.com" className="text-blue-500 underline hover:text-blue-700">connect@alankaararts.com</a>. Alankaar The Art Of Beads will process your refund within 7 days of receiving the products back at our warehouse.
     </p>
 
     <h3 className="text-xl font-semibold mt-4 mb-2 text-gray-900 animate-fade-in-up">
@@ -77,11 +77,11 @@ export default function Return() {
       Cancellation
     </h2>
     <p className="text-gray-700 mb-4 transition-all duration-300 hover:text-gray-900">
-      Send us a mail within 24 hours of placing your order at <a href="mailto:shikha.b79@gmail.com" className="text-blue-500 underline hover:text-blue-700">shikha.b79@gmail.com</a>, stating that you are canceling your order. We will refund your amount within 48 hours of cancellation.
+      Send us a mail within 24 hours of placing your order at <a href="mailto:connect@alankaararts.com" className="text-blue-500 underline hover:text-blue-700">connect@alankaararts.com</a>, stating that you are canceling your order. We will refund your amount within 48 hours of cancellation.
     </p>
 
     <p className="text-gray-700 mt-8 transition-all duration-300 hover:text-gray-900">
-      For more queries, just drop us a mail at <a href="mailto:shikha.b79@gmail.com" className="text-blue-500 underline hover:text-blue-700">shikha.b79@gmail.com</a>. We would be more than happy to help you.
+      For more queries, just drop us a mail at <a href="mailto:connect@alankaararts.com" className="text-blue-500 underline hover:text-blue-700">connect@alankaararts.com</a>. We would be more than happy to help you.
     </p>
   </div>
 </div>

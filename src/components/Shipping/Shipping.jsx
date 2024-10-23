@@ -49,7 +49,7 @@ export default function Shipping() {
         </ul>
 
         <p className="text-gray-700 mt-6 transition-all duration-300 hover:text-gray-900">
-          For more information, please contact us at <a href="mailto:shikha.b79@gmail.com" className="text-blue-500 underline hover:text-blue-700">shikha.b79@gmail.com</a>.
+          For more information, please contact us at <a href="mailto:connect@alankaararts.com" className="text-blue-500 underline hover:text-blue-700">connect@alankaararts.com</a>.
         </p>
       </div>
     </div>
